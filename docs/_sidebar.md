@@ -7,3 +7,4 @@
   * [Report](./house_keeping/laporan_hk.md)
   * [Inventory](./house_keeping/inventory.md)
   * [Approval](./house_keeping/approve.md)
+  * [Testing](./reservation/guide_booking.md
