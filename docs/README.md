@@ -1,8 +1,9 @@
-# Dokumentasi SODA
-
-<div style="margin:0; width: 100%;">
-    <img align="center" src="./_assets/logo-soda.png" width="300" height="150" />
+<div style="margin:0; width: 100%; text-align: center;">
+    <img align="center" src="./_assets/logo-soda.png" width="300" height="100" />
 </div>
+
+
+# SODA Sistem
 
 > Beberapa dokumentasi & tutorial fitur-fitur dari SODA Sistem
 
