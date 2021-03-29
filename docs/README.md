@@ -1,4 +1,4 @@
-<div style="margin:0; width: 100%; text-align: center; padding-bottom: 30px;">
+<div style="margin:0; width: 100%; text-align: center; padding-bottom: 80px;">
     <img align="center" src="./_assets/logo-soda.png" width="300" height="100" />
 </div>
 
