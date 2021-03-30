@@ -8,4 +8,5 @@
 > > - Untuk mengunggah database item, anda perlu mengunduh terlebih dahulu contoh template dengan mengklik tombol [unduh template] agar data nantinya bisa diunggah ke system. Contoh template yang tadi sudah diunduh, sebelum diunggah ke system harus diedit terlebih dahulu sesuai dengan data item di gudang anda. Setelah mengeditnya, upload database dengan mengklik 2 kali pada data yang akan diunggah.
 > > - Jika ingin menambahkan data item yang baru, klik tombol **tambah** lalu pilih **manual** dan isikan sesuai data yang diminta.
 > 4. 
+> 
 ## 2. Unggah Stok Masuk
