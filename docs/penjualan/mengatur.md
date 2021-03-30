@@ -16,4 +16,5 @@
 > 3. Klik tombol **tambah** yang ada pada kanan atas.
 > > a) Upload > Pilih **upload** maka akan muncul tampilan **unggah stok**. Untuk mengunggah stok masuk, anda perlu mengunduh terlebih dahulu contoh template dengan mengklik tombol [unduh template] agar data nantinya bisa diunggah ke sistem. Contoh template yang tadi sudah diunduh, sebelum diunggah ke sistem harus diedit terlebih dahulu sesuai dengan data stok masuk barang di gudang anda. Setelah mengeditnya, unggah file dengan mengklik 2 kali. **Tapi** sebelum anda mengunggah file tersebut, isikan tenggal [kapan anda mengunggah stok tersebut], lalu tipe [diisikan berdasarkan cara penamaan di gudang anda], isikan pemilik [nama toko yang menjual] serta gudang [barang nantinya akan disimpan di gudang mana?]. Setelah proses unggah selesai, data yang tadi diunggah akan muncul di system.
 > > - Setelah proses mengunggah selesai,
+> > 
 > > b) Manual > Jika ingin menambahkan data item yang baru, klik tombol **tambah** lalu pilih **manual** dan isikan sesuai data yang diminta. Jika data sudah diisi, klik tombol simpan.
