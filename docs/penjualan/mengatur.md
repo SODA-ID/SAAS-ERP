@@ -21,4 +21,5 @@
 > > - Setelah proses mengunggah selesai, data akan ditampilkan di kategori **sudah dibuka**. Klik **menu**, lalu pilih **lihat**, klik **cek** jika barang **sudah dilabeli**. Klik **kunci** untuk menandakan bahwa barang tadi sudah siap untuk dijual, lalu klik **simpan**.
 > > 
 > > b) Manual 
-> > - Jika ingin menambahkan data item yang baru, klik tombol **tambah** lalu pilih **manual** dan isikan sesuai data yang diminta. Jika data sudah diisi, klik tombol simpan.
+> > - Jika ingin menambahkan data item yang baru, klik tombol **tambah** lalu pilih **manual** dan isikan sesuai data yang diminta. Jika data sudah diisi, klik tombol simpan. Setelah itu data akan masuk dalam kategori inbox. Klik menu, lalu lihat, klik catat apabila barang akan dibuka [unpack] untuk proses pencatatan di gudang, isikan jumlah barang yang masuk lalu klik simpan. klik **cek** jika barang **sudah dilabeli**. Klik **kunci** untuk menandakan bahwa barang tadi sudah siap untuk dijual, lalu klik **simpan**.
+> > 
