@@ -1,10 +1,10 @@
 # Mengatur Toko dan Gudang
 Dalam mengatur toko dan gudang, ada beberapa langkah yang harus anda lakukan agar memudahkan anda dalam mengelolanya. Hal-hal yang perlu diperhatikan agar data bisa terkoordinir di sistem adalah sebagai berikut :
 ## 1. Unggah Database Item
-> Pertama-tama anda perlu mengunggah database item ke sistem. Berikut cara mengunggah database ke soda sistem :
-> 1. Pada **dashboard** soda.id pilih menu **gudang**.
-> 2. Pada **pengaturan** pilih **item**.
-> 3. Klik tombol **tambah** yang ada pada kanan atas. Untuk menambah data item ada 2 cara :
+Pertama-tama anda perlu mengunggah database item ke sistem. Berikut cara mengunggah database ke soda sistem :
+1. Pada **dashboard** soda.id pilih menu **gudang**.
+2. Pada **pengaturan** pilih **item**.
+3. Klik tombol **tambah** yang ada pada kanan atas. Untuk menambah data item ada 2 cara :
 > > a) Upload 
 > > - Pilih **upload** maka akan muncul tampilan **unggah item**. Untuk mengunggah database item, anda perlu mengunduh terlebih dahulu contoh template dengan mengklik tombol [unduh template] agar data nantinya bisa diunggah ke sistem. Contoh template yang tadi sudah diunduh, sebelum diunggah ke sistem harus diedit terlebih dahulu sesuai dengan data item di gudang anda. Setelah mengeditnya, unggah file dengan mengklik 2 kali. Setelah proses unggah selesai, data yang tadi diunggah akan muncul di system.
 > > 
