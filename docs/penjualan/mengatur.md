@@ -1,5 +1,5 @@
 # Mengatur Toko dan Gudang
-> Dalam mengatur toko dan gudang, ada beberapa langkah yang harus anda lakukan agar memudahkan anda dalam mengelolanya. Hal-hal yang perlu diperhatikan agar data bisa terkoordinir di sistem adalah sebagai berikut :
+Dalam mengatur toko dan gudang, ada beberapa langkah yang harus anda lakukan agar memudahkan anda dalam mengelolanya. Hal-hal yang perlu diperhatikan agar data bisa terkoordinir di sistem adalah sebagai berikut :
 ## 1. Unggah Database Item
 > Pertama-tama anda perlu mengunggah database item ke sistem. Berikut cara mengunggah database ke soda sistem :
 > 1. Pada **dashboard** soda.id pilih menu **gudang**.
