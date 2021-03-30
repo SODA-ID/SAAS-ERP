@@ -4,6 +4,6 @@
 > Pertama-tama anda perlu mengunggah database item ke system. Berikut langkah - langkah cara mengunggah database ke system :
 > 1. Pada **dashboard** soda.id pilih menu **gudang**
 > 2. Pada **pengaturan** pilih **item**
-> 3. Klik tombol **tambah** yang ada pada kanan atas. Pilih **upload** maka akan muncul tampilan **unggah item**. Untuk mengunggah database item, anda unduh terlebih dahulu contoh template agar data nantinya bisa diunggah ke system. 
+> 3. Klik tombol **tambah** yang ada pada kanan atas. Pilih **upload** maka akan muncul tampilan **unggah item**. Untuk mengunggah database item, anda unduh terlebih dahulu contoh template [unduh template] agar data nantinya bisa diunggah ke system. 
 > 4. 
 ## 2. Unggah Stok Masuk
